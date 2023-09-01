@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an [IT Technician](https://redbasa.com.ar/)
 
-- 🌱 I’m currently learning **Game Design and Unreal Engine**
+- 🌱 I’m currently learning **Game Design and js**
 
 - 👯 I’m looking to collaborate on **Web and Game Development**
 
