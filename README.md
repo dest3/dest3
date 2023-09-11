@@ -1,5 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Matías Aranda</h1>
-<h3 align="center">🚀 Full Stack Programmer Trainee | Game Design Developer | IT Technician | Technology Enthusiast 🎮</h3>
+<h1 align="center">¡Hi! 👋 I'm Matías Aranda</h1>
+<p align="center">🚀 Full Stack dev | Game Designer | tech entuciast 🎮</p>
+
 
 - 🔭 I’m currently working as an [IT Technician](https://redbasa.com.ar/)
 
@@ -38,6 +39,12 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 </div>
+
+### Proyectos Destacados
+
+- [CodoTech](https://github.com/dest3/CodoTech): Desarrollo fullstak con python donde se implemento un C.R.U.D 
+- [CodoPress](https://github.com/dest3/CodoPress): Desarrollo frontend donde se implementaron diferentes tecnologias para lograr un diseño responsive y pulido.
+
 
 ### :fire: My Stats:
 
