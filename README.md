@@ -11,9 +11,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working as an [IT Technician](https://redbasa.com.ar/)
+- 🔭 I’m currently working as an [IT Coordinator](https://redbasa.com.ar/)
 
-- 🌱 I’m currently learning **Game Design and js**
+- 🌱 I’m currently learning **Game Design and godot**
 
 - 👯 I’m looking to collaborate on **Web and Game Development**
 
@@ -23,6 +23,7 @@
 
 - 📫 How to reach me: **matias_aranda20@hotmail.com**
 
+- 🎮 My games on [itch.io](https://dest-er.itch.io/)
 <h3 align="center"> 💌Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mat%C3%ADas-javier-aranda-30498a169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías javier aranda" height="30" width="40" /></a>
