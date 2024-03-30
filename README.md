@@ -1,10 +1,16 @@
-<h1 align="center">¡Hi! 👋 I'm Matías Aranda</h1>
-<p align="center">🚀 Full Stack dev | Game Designer | tech entuciast 🎮</p>
+<h1 align="center">¡Hi! 👋 I'm <b>Matías Aranda</b></h1>
+<p align="center">🚀 Game Designer | Full Stack dev | Game programer 🎮</p>
+
+<div aling ="center">
+  
+  <img src=https://github.com/dest3/dest3/assets/21976463/7893b11c-890a-482a-9ffa-63384027c578>
+ 
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
   </a>
 </div>
@@ -12,17 +18,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center"> - 🔭 I’m currently working as an [IT Coordinator](https://redbasa.com.ar/) </p>
+<p align="center"> - 🔭 I’m currently working as an <b>IT Coordinator</b> in <a href = https://redbasa.com.ar/> red basa</a> </p>
 
-<p align="center"> - 🌱 I’m currently learning **Game Design and godot**</p>
+<p align="center"> - 🌱 I’m currently learning <b>Game Design and godot</b></p>
 
-<p align="center"> - 👯 I’m looking to collaborate on **Web and Game Development**</p>
+<p align="center"> - 👯 I’m looking to collaborate on <b>Web and Game Development</b></p>
 
 <p align="center"> - 💬 Ask me about **Game Design**</p>
 
 <p align="center"> - 📫 How to reach me: **matias_aranda20@hotmail.com**</p>
 
-<p align="center"> - 🎮 My games on [itch.io](https://dest-er.itch.io/)</p>
+<p align="center"> - 🎮 My games on <a href= https://dest-er.itch.io/> itch.io </a></p>
 <p align="center"> - 💌Connect with me:</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mat%C3%ADas-javier-aranda-30498a169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías javier aranda" height="30" width="40" /></a>
