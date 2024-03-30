@@ -4,27 +4,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working as an [IT Coordinator](https://redbasa.com.ar/)
+<p align="center"> - 🔭 I’m currently working as an [IT Coordinator](https://redbasa.com.ar/) </p>
 
-- 🌱 I’m currently learning **Game Design and godot**
+<p align="center"> - 🌱 I’m currently learning **Game Design and godot**</p>
 
-- 👯 I’m looking to collaborate on **Web and Game Development**
+<p align="center"> - 👯 I’m looking to collaborate on **Web and Game Development**</p>
 
-- ⚡ In my free time, I play video games and learn about them.
+<p align="center"> - 💬 Ask me about **Game Design**</p>
 
-- 💬 Ask me about **Game Design**
+<p align="center"> - 📫 How to reach me: **matias_aranda20@hotmail.com**</p>
 
-- 📫 How to reach me: **matias_aranda20@hotmail.com**
-
-- 🎮 My games on [itch.io](https://dest-er.itch.io/)
-<h3 align="center"> 💌Connect with me:</h3>
+<p align="center"> - 🎮 My games on [itch.io](https://dest-er.itch.io/)</p>
+<p align="center"> - 💌Connect with me:</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mat%C3%ADas-javier-aranda-30498a169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías javier aranda" height="30" width="40" /></a>
 </p>
