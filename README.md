@@ -3,7 +3,7 @@
 
 <div aling ="center">
   
-  <img align="center" src=https://github.com/dest3/dest3/assets/21976463/7893b11c-890a-482a-9ffa-63384027c578>
+  <img align="center" style="horizontal-align:middle;margin:500px 0px" src=https://github.com/dest3/dest3/assets/21976463/7893b11c-890a-482a-9ffa-63384027c578>
  
 </div>
 
@@ -79,5 +79,5 @@
 </p>
 <!-- Estadísticas y Trofeos (fin) -->
 
-<img align="center" src="https://github.com/dest3/dest3/assets/21976463/8116695f-be9b-4ab8-9247-6fda5f90d8ed">
+<img alt="Crunch patrol Logo" width="500" style="horizontal-align:middle;margin:500px 0px" height="500"  src="https://github.com/dest3/dest3/assets/21976463/8116695f-be9b-4ab8-9247-6fda5f90d8ed">
 
