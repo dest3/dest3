@@ -1,18 +1,9 @@
 <h1 align="center">¡Hi! 👋 I'm <b>Matías Aranda</b></h1>
 <p align="center">🚀 Game Designer | Full Stack dev | Game programer 🎮</p>
 
-<p align="center">
-  <img src=https://github.com/dest3/dest3/assets/21976463/7893b11c-890a-482a-9ffa-63384027c578>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 <div align="center">
-  <a href="">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -78,8 +69,5 @@
   <!-- Estadísticas (fin) -->
 </p>
 <!-- Estadísticas y Trofeos (fin) -->
-<p align="center">
-  <img alt="Crunch patrol Logo" width="500" height="500"  src="https://github.com/dest3/dest3/assets/21976463/8116695f-be9b-4ab8-9247-6fda5f90d8ed" >
-</p>
 
 
